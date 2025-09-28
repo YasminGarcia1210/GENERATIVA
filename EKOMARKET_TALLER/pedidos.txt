@@ -1,0 +1,30 @@
+Pedido 1001 - Estado: En tránsito - Fecha estimada de entrega: 2025-10-01
+Pedido 1002 - Estado: Entregado - Fecha de entrega: 2025-09-25
+Pedido 1003 - Estado: Retrasado - Nueva fecha estimada: 2025-10-03
+Pedido 1004 - Estado: En preparación - Estimado: 2025-09-29
+Pedido 1005 - Estado: Cancelado - Motivo: Pago no confirmado
+Pedido 1006 - Estado: En tránsito - Fecha estimada: 2025-10-02
+Pedido 1007 - Estado: Entregado - Fecha de entrega: 2025-09-22
+Pedido 1008 - Estado: Retrasado - Motivo: Problemas logísticos
+Pedido 1009 - Estado: En preparación - Estimado: 2025-09-30
+Pedido 1010 - Estado: Entregado - Fecha de entrega: 2025-09-20
+Pedido 1011 - Estado: En preparación - Estimado: 2025-10-02
+Pedido 1012 - Estado: Cancelado - Motivo: Producto sin stock
+Pedido 1013 - Estado: Entregado - Fecha de entrega: 2025-09-28
+Pedido 1014 - Estado: Retrasado - Nueva fecha estimada: 2025-10-05
+Pedido 1015 - Estado: En tránsito - Fecha estimada: 2025-10-04
+Pedido 1016 - Estado: Entregado - Fecha de entrega: 2025-09-21
+Pedido 1017 - Estado: En preparación - Estimado: 2025-10-01
+Pedido 1018 - Estado: Retrasado - Motivo: Retraso en proveedor
+Pedido 1019 - Estado: En tránsito - Fecha estimada: 2025-10-06
+Pedido 1020 - Estado: Entregado - Fecha de entrega: 2025-09-19
+Pedido 1021 - Estado: En preparación - Estimado: 2025-10-07
+Pedido 1022 - Estado: Cancelado - Motivo: Dirección incorrecta
+Pedido 1023 - Estado: En tránsito - Fecha estimada: 2025-10-08
+Pedido 1024 - Estado: Entregado - Fecha de entrega: 2025-09-27
+Pedido 1025 - Estado: Retrasado - Motivo: Condiciones climáticas
+Pedido 1026 - Estado: En preparación - Estimado: 2025-10-09
+Pedido 1027 - Estado: Entregado - Fecha de entrega: 2025-09-23
+Pedido 1028 - Estado: Cancelado - Motivo: Cliente solicitó anulación
+Pedido 1029 - Estado: En tránsito - Fecha estimada: 2025-10-10
+Pedido 1030 - Estado: Retrasado - Motivo: Alta demanda en bodega

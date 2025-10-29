@@ -5,6 +5,10 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## 💡Autores 
+### Yasmin Johanna Garcia 
+### Javier Ricardo Muñoz
+
 ## 📋 Descripción
 
 EcoAgent es un agente inteligente construido con LangChain que automatiza y optimiza los procesos de devolución de productos. Utiliza técnicas de Retrieval-Augmented Generation (RAG) y herramientas especializadas para proporcionar asistencia completa en la gestión de devoluciones.
